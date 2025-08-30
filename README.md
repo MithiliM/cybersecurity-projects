@@ -44,7 +44,6 @@ It demonstrates my knowledge of **threat detection, incident response, SIEM tool
 
 ## 📫 Contact
 - 📧 Email: **mithhili05@gmail.com**  
-- 🔗 LinkedIn: *(add your profile link here)*  
-- 🌐 Portfolio (GitHub Pages): *(will be available once GitHub Pages is enabled)*  
+- 🌐 Portfolio (GitHub Pages): https://mithilim.github.io/cybersecurity-projects/ 
 
 ---
